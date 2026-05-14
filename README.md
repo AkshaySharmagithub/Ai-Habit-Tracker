@@ -1,5 +1,7 @@
 # 🚀 AI Habit Tracker
 
+Live Link https://ai-habit-tracker-mu.vercel.app/
+
 A modern full-stack AI-powered habit tracker application built with the MERN stack.
 
 ## ✨ Features
