@@ -1,10 +1,10 @@
-# 🚀 AI Habit Tracker
+ AI Habit Tracker
 
-Live Link https://ai-habit-tracker-mu.vercel.app/
+Live Link:- https://ai-habit-tracker-pink.vercel.app/
 
 A modern full-stack AI-powered habit tracker application built with the MERN stack.
 
-## ✨ Features
+✨ Features
 
 * 🔐 User Authentication
 * 📅 Daily Habit Tracking
@@ -16,16 +16,12 @@ A modern full-stack AI-powered habit tracker application built with the MERN sta
 
 ---
 
-## 🛠️ Tech Stack
-
+ 🛠️ Tech Stack
 ### Frontend
-
 * React.js
 * Vite
 * Tailwind CSS
-
 ### Backend
-
 * Node.js
 * Express.js
 * MongoDB
@@ -34,9 +30,7 @@ A modern full-stack AI-powered habit tracker application built with the MERN sta
 
 * Gemini API
 
----
-
-## 📂 Project Structure
+📂 Project Structure
 
 ```bash
 AIHABITTRACKER/
@@ -45,21 +39,6 @@ AIHABITTRACKER/
 ```
 
 ---
-
-## ⚙️ Environment Variables
-
-### Backend `.env`
-
-```env
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_secret_key
-GEMINI_API_KEY=your_gemini_api_key
-CLIENT_URL=http://localhost:5173
-PORT=8000
-```
-
----
-
 ## 🚀 Installation
 
 ### Clone Repository
@@ -67,9 +46,7 @@ PORT=8000
 ```bash
 git clone https://github.com/AkshaySharmagithub/Ai-Habit-Tracker.git
 ```
-
 ---
-
 ### Backend Setup
 
 ```bash
@@ -87,10 +64,8 @@ cd frontend
 npm install
 npm run dev
 ```
-
 ---
-
-## 🌐 Deployment
+🌐 Deployment
 * Frontend → Vercel
 * Database → MongoDB Atlas
 
